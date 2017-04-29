@@ -1,0 +1,14 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "react",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Mishev Ihor",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.15.2"
+  }
+}
